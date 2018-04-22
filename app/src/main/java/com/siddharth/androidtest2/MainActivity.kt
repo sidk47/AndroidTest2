@@ -9,7 +9,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var occupation = "Developer"
+        var name = "johhnyB"
     }
 
     //This is the button added branch
+    //Added some text
 }
